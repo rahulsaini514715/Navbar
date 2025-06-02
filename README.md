@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsaini514715" alt="rahulsaini514715" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="codint" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
 <p align="left">
 <a href="https://instagram.com/sainirahul_1504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainirahul_1504" height="30" width="40" /></a>
 </p>
